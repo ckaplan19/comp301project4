@@ -1,0 +1,1 @@
+("8.4" ta6osx ("efa2fc98b84922b4d5cff15004276a14abe62914" . "a95abc64efa7c17cba07a013824bf117d836168a") #"/Users/celal/Downloads/project4 2 2 2/Project4_boilerplate/lang.scm" #"/Users/celal/Downloads/project4 2 2 2/Project4_boilerplate/store.scm" (collects #"eopl" #"eopl.rkt") (collects #"errortrace" #"errortrace-key.rkt"))
